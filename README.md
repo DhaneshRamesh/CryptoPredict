@@ -167,6 +167,9 @@ We demonstrate:
 7. **Model Preparation**  
    - Importing `xgboost` for potential regression tasks (training steps can be added in the future).
 
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/deebd3bf-6ba1-46f4-a4af-9b0fcaf5b9d0" />
+
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/ecf2987e-4327-4278-8af0-8a8eb01723f1" />
 
 
 ## **8. Future Improvements**
@@ -179,9 +182,6 @@ We demonstrate:
 - **Additional Features**:  
   - Incorporate external signals like network hashrate, on-chain metrics, or macroeconomic data.
 
-> **Highlight for Marks**: Demonstrating awareness of your project’s limitations and offering next steps indicates thorough thinking.
-
----
 
 ## **9. Contributing**
 
